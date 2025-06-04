@@ -2,7 +2,7 @@
 
 ## 📸 Workflow preview
 
-![Workflow Preview](workflow-preview.png)
+![Workflow Preview](Workflow_Preview.png)
 
 This project is a fully automated **Retrieval-Augmented Generation (RAG) Chatbot** built with **n8n**, **Pinecone**, and **OpenAI**.
 
